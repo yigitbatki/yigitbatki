@@ -1,4 +1,13 @@
-### Hi there 👋
+im currently learning blockchain and web developlment as well as the basics of ai
+,hopefully one day i will find my orientation
+
+meanwhile make sure to check out my repos i have some cool stuff
+
+and there is my website i will possibly update one day: 
+[that's me](yigitbatki.com)
+
+i really really like queen and the symposium
+
 
 <!--
 **yigitbatki/yigitbatki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
